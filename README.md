@@ -2,6 +2,7 @@
 
 Hi, I just wanted to share my experience updating the MMI Firmware on my Audi TT MY2015.
 
+Note: This guide is only made for  updating the FW and Map license not for Carplay/Airplay/External amplifier. I take no responsibility for bricking you Bluetooth or Head unit.
 ## Requirements before starting:
 - SD card 32 GB, Filesystem FAT32
 - Firmware: [MIB Solution](https://mibsolution.one)
